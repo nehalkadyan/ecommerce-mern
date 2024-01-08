@@ -1,0 +1,170 @@
+[
+  {
+    "_id": 1,
+    "brand": "Force 10",
+    "sizes": [7, 8, 9],
+    "color": "white",
+    "price": 1199,
+    "model": "Sports Lace Up Shoes Men",
+    "imgUrls": [
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/c/l/clq_5499.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/c/l/clq_5351.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/c/l/clq_5354.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/f/o/force-8_white_1.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/f/o/force-8_white_2.jpg"
+    ],
+    "gender": "men",
+    "category": "sports",
+    "availability": "true",
+    "productBenefits": "The FORCE-8 by Liberty offers a unique combination of style, comfort, and performance that sets it apart from other tennis shoes, running shoes, athletic shoes, trainers, jogging shoes, sneaker boots, gym shoes, kicks, or plimsolls on the market.",
+    "productDetails": "Force 10 Sports Lace Up Shoes Mens (WHITE) FORCE-8 By Liberty",
+    "returnPolicy": "Return Window 7 Days from the date of delivery."
+  },
+  {
+    "_id": 2,
+    "brand": "Force 10",
+    "sizes": [7, 8, 9],
+    "color": "black",
+    "price": 1199,
+    "model": "Sports Lace Up Shoes Men (N.BLUE)",
+    "imgUrls": [
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/a/s/asper_nblue_1.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/a/s/asper_nblue_2.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/a/s/asper_nblue_3.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/a/s/asper_nblue_4.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/a/s/asper_nblue_5.jpg"
+    ],
+    "gender": "men",
+    "category": "sports",
+    "availability": "true",
+    "productBenefits": "The FORCE 10 By Liberty ASPER sports shoes are designed with performance and comfort in mind. The breathable mesh upper and cushioned sole ensure that your feet stay comfortable and supported throughout the day.",
+    "productDetails": "Force 10 Sports Lace Up Shoes Mens (N.BLUE) ASPER By Liberty",
+    "returnPolicy": "Return Window 7 Days from the date of delivery."
+  },
+  {
+    "_id": 3,
+    "brand": "Force 10",
+    "sizes": [6, 7, 8, 9],
+    "color": "black",
+    "price": 1199,
+    "model": "Liberty Sea Green Sports Running Shoes",
+    "imgUrls": [
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/a/v/avery_sgreen_1.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/a/v/avery_sgreen_2.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/a/v/avery_sgreen_3.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/a/v/avery_sgreen_4.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/a/v/avery_sgreen_5.jpg"
+    ],
+    "gender": "men",
+    "category": "sports",
+    "availability": "true",
+    "productBenefits": "unique selling point of the FORCE 10 By Liberty AVERY is its combination of style, comfort, and durability. The shoe is made with high-quality materials and advanced technology, ensuring that it can withstand even the toughest training sessions.",
+    "productDetails": "Pair of FORCE 10 Green Sports Running Shoes laces for men is an eye-catching delight for casual and sportive feet fashion. It keeps your feet breathable, as well as sweat and odor free. With space provided inside for free feet movement without squashing from the top or sides; its outer base has a multi-directional gripping surface, which adds fictional support at every step.",
+    "returnPolicy": "Return Window 7 Days from the date of delivery."
+  },
+  {
+    "_id": 4,
+    "brand": "Force 10",
+    "sizes": [6, 7, 8, 9],
+    "color": "black",
+    "price": 1199,
+    "model": "Men's Lace-Up Sports Running Shoes",
+    "imgUrls": [
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/i/m/img_7516.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/3/0/30-07-2022_ks_liberty16367.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/l/e/leopard-01_n-blue_1.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/l/e/leopard-01_n-blue_2.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/l/e/leopard-01_n-blue_3.jpg"
+    ],
+    "gender": "men",
+    "category": "sports",
+    "availability": "true",
+    "productBenefits": "The LEOPARD-01 is unique because of its non-leather upper material, woven in a N.BLUE color which gives a sporty look and its Eva sole material, which provides excellent traction and durability.",
+    "productDetails": "Pair of FORCE 10 Navy Blue Sports Running Shoes laces for men is an eye-catching delight for casual and sportive feet fashion. It keeps your feet breathable, as well as sweat and odor free. With space provided inside for free feet movement without squashing from the top or sides; its outer base has a multi-directional gripping surface, which adds fictional support at every step.",
+    "returnPolicy": "Return Window 7 Days from the date of delivery."
+  },
+  {
+    "_id": 5,
+    "brand": "GLIDERS",
+    "sizes": [7, 8, 9],
+    "color": "black",
+    "price": 2199,
+    "model": "Casual Lace Up Shoes For Men",
+    "imgUrls": [
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/p/a/paraboot_black_1.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/p/a/paraboot_black_1_2.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/p/a/paraboot_black_2.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/p/a/paraboot_black_3.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/p/a/paraboot_black_5.jpg"
+    ],
+    "gender": "men",
+    "category": "casual",
+    "availability": "true",
+    "productBenefits": "Lightweight and Breathable: The NON-LEATHER material makes the shoe lightweight and breathable, keeping your child's feet comfortable.",
+    "productDetails": "We have a perfect pair for every member of the family. From school shoes to sports shoes, from ballerinas to comfortable slips-ons, from corporate.",
+    "returnPolicy": "Return Window 7 Days from the date of delivery."
+  },
+  {
+    "_id": 6,
+    "brand": "GLIDERS",
+    "sizes": [7, 8, 9],
+    "color": "brown",
+    "price": 2499,
+    "model": "Casual Lace Up Shoes",
+    "imgUrls": [
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/s/y/syn-40_tan_1.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/s/y/syn-40_tan_2.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/s/y/syn-40_tan_3.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/s/y/syn-40_tan_4.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/s/y/syn-40_tan_5.jpg"
+    ],
+    "gender": "men",
+    "category": "casual",
+    "availability": "true",
+    "productBenefits": "One of the standout features of the SYN-40 GLIDERS By Liberty shoes is their combination of style and comfort. These men's casual shoes are designed with a medium width and a normal shoe height, making them a comfortable fit for most foot types.",
+    "productDetails": "Gliders Casual Lace Up Shoes For Mens (TAN) SYN-40 By Liberty.",
+    "returnPolicy": "Return Window 7 Days from the date of delivery."
+  },
+  {
+    "_id": 7,
+    "brand": "GLIDERS",
+    "sizes": [7, 8, 9],
+    "color": "black",
+    "price": 1599,
+    "model": "Formal Lace Up Shoes For Men",
+    "imgUrls": [
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/r/o/roughter-s_black_1.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/r/o/roughter-s_black_2.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/r/o/roughter-s_black_3.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/r/o/roughter-s_black_4.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/r/o/roughter-s_black_5.jpg"
+    ],
+    "gender": "men",
+    "category": "formal",
+    "availability": "true",
+    "productBenefits": "The GLIDERS by Liberty ROUGHTER-S shoes are designed with both style and comfort in mind. With a non-leather upper made of durable PU CFB material and a PU sole, these shoes are built to last while providing all-day comfort.",
+    "productDetails": "Gliders Formal Lace Up Shoes Mens (BLACK) ROUGHTER-S By Liberty",
+    "returnPolicy": "Return Window 7 Days from the date of delivery."
+  },
+  {
+    "_id": 8,
+    "brand": "GLIDERS",
+    "sizes": [7, 8, 9, 10],
+    "color": "black",
+    "price": 1599,
+    "model": "Formal Lace Up Shoes For Men",
+    "imgUrls": [
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/0/9/09-08-2022_pd_liberty-64.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/h/t/httpstaging.greenhonchos.comlibertypubmediaimages2042-05-n-black-pvc-cfb__1.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/1/4/14-09-2022_liberty_model02323.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/h/t/httpstaging.greenhonchos.comlibertypubmediaimages2042-05-n-black-pvc-cfb__2.jpg",
+      "https://www.libertyshoesonline.com/pub/media/catalog/product/cache/036e1f77cd3178c76f889f39e301037b/h/t/httpstaging.greenhonchos.comlibertypubmediaimages2042-05-n-black-pvc-cfb__3.jpg"
+    ],
+    "gender": "men",
+    "category": "formal",
+    "availability": "true",
+    "productBenefits": "The GLIDERS by Liberty 2042-05 N is made with high-quality materials to ensure both comfort and durability. The versatile design and sleek black color make this shoe suitable for a range of formal and dress occasions.",
+    "productDetails": "Gliders Men's Black Formal Lacing (2042-05 N)",
+    "returnPolicy": "Return Window 7 Days from the date of delivery."
+  }
+]
