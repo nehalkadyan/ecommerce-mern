@@ -1,11 +1,39 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import HeroSection from "../../components/hero-section/HeroSection";
 import Categories from "../../components/categories/Categories";
 import Card from "../../components/product-card/Card";
 import Services from "../../components/services/Services";
 import NewsLetter from "../../components/news-letter/NewsLetter";
+import { fetchingProductStart, fetchingProductSuccess, fetchingProductFailure } from "../../redux/products/productSlice";
+import {useDispatch} from "react-redux"
 
 const Homepage = () => {
+ 
+  const dispatch = useDispatch()
+
+  const getShoesData = async () => {
+    try{
+      dispatch(fetchingProductStart())
+      const res = await fetch("http://localhost:5000/api/products/shoes");
+      const data = await res.json();
+      return data;
+    }catch(err){
+      console.log(err);
+      dispatch(fetchingProductFailure(err.message))
+    }
+
+  };
+
+  useEffect(() => {
+    const fetchData = async () => {
+      const data = await getShoesData();
+      console.log(data)
+      dispatch(fetchingProductSuccess(data))
+    };
+
+    fetchData();
+  }, []);
+
   const [activeButton, setActiveButton] = useState(null);
   const handleActiveButton = (buttonId) => {
     setActiveButton(buttonId);
